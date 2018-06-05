@@ -2,6 +2,6 @@
 function __autoload($class)
 {
 
-	
+	echo $class;
 
 }
